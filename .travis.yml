@@ -3,7 +3,7 @@ notifications:
 sudo: false
 language: ruby
 rvm:
-  - 2.2.2p95
+  - 2.2.2
 env:
   global:
     - RAILS_ENV=production
